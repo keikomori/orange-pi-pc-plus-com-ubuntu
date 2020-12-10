@@ -39,7 +39,30 @@ Selecione a sua rede e insira a senha
 <h4>Para utilizar a eMMC Flash como memória principal</h4>
 
 ```
+root@orangepipcplus:~# nand-sata-install
+```
+
+Selecione a opçãp eMMC Flash, demorará alguns minutos para concluir, quando terminar finalize e desligue sua Orange Pi PC Plus da tomada e retire o cartão micro USB.
+
+<h4>Mudando o horário/linguagem/hostname</h4>
+
+```
 root@orangepipcplus:~# armbian-config
 ```
 
-No menu que aparecerá 
+Entre na opção Personal e configure o horário linguagem e hostname de acordo com sua necessidade
+
+<h4>Atualize sua Orange Pi PC Plus</h4>
+
+```
+root@orangepipcplus:~# apt-get update && apt-get -y upgrade
+```
+
+<h4>Instalando a interface gráfica xubuntu</h4>
+
+```
+root@orangepipcplus:~# apt-get install xubuntu-desktop
+root@orangepipcplus:~# reboot
+```
+
+
