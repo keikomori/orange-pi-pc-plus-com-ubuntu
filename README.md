@@ -1,4 +1,4 @@
-<h6>Instalação do Orange Pi PC Plus</h6>
+<h6>Instalação Orange Pi PC Plus</h6>
 <h1 align="center">Instalação Ubuntu no Orange Pi PC Plus</h1>
 <h6 align="center">by Keiko</h6>
 
