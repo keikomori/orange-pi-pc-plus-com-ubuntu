@@ -1,5 +1,5 @@
 <h6>Instalação do Orange Pi PC Plus</h6>
-<h1 align="center">Usando Docker no Orange Pi PC Plus</h1>
+<h1 align="center">Instalação Ubuntu no Orange Pi PC Plus</h1>
 <h6 align="center">by Keiko</h6>
 
 
@@ -65,6 +65,6 @@ root@orangepipcplus:~# apt-get install ubuntu-desktop --no-install-recommends -y
 root@orangepipcplus:~# reboot
 ```
 
-<h4>Instalando Docker</h4>
+the end ...
 
 
