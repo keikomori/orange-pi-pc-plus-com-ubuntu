@@ -58,7 +58,7 @@ Entre na opção Personal e configure o horário linguagem e hostname de acordo 
 root@orangepipcplus:~# apt-get update && apt-get -y upgrade
 ```
 
-<h4>Instalando a interface gráfica xubuntu</h4>
+<h4>Instalando a interface gráfica Ubuntu</h4>
 
 ```
 root@orangepipcplus:~# apt-get install ubuntu-desktop --no-install-recommends -y
