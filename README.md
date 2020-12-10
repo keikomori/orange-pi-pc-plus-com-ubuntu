@@ -61,8 +61,10 @@ root@orangepipcplus:~# apt-get update && apt-get -y upgrade
 <h4>Instalando a interface gráfica xubuntu</h4>
 
 ```
-root@orangepipcplus:~# apt-get install xubuntu-desktop
+root@orangepipcplus:~# apt-get install ubuntu-desktop --no-install-recommends -y
 root@orangepipcplus:~# reboot
 ```
+
+<h4>Instalando Docker</h4>
 
 
