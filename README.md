@@ -7,7 +7,7 @@
 
 Vamos utilizar a versão **Bionic** que pode ser encontrada no [ORANGE PI PC PLUS ARMBIAN](https://www.armbian.com/orange-pi-pc-plus) essa é uma versão Ubuntu.
 
-<img align="center" src="https://github.com/keikomori/instalacao-ubuntu-orange-pi-pc-plus/blob/master/img/bionic-armbian.png" alt="alt text" width="500"/>
+<img align="center" src="https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/img/bionic-armbian.png" alt="alt text" width="500"/>
 
 <h4>Insira os dados solicitados</h4>
 
@@ -34,7 +34,7 @@ root@orangepipcplus:~# nmtui-connect
 
 Selecione a sua rede e insira a senha
 
-<img align="center" src="https://github.com/keikomori/instalacao-ubuntu-orange-pi-pc-plus/blob/master/img/connect-wi-fi.png" alt="alt text" width="500"/>
+<img align="center" src="https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/img/connect-wi-fi.png" alt="alt text" width="500"/>
 
 <h4>Para utilizar a eMMC Flash como memória principal</h4>
 
