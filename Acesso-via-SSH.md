@@ -35,7 +35,7 @@ sudo apt-get update && apt-get upgrade -y
 
 <img src="https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/img/putty-inserirIP.jpg" alt="alt text" width="300"/>
 
-Será solicitado o login e a senha configurada quando você instalou o SO na sua Orange Pi e teremos uma tela parecida com essa:
+- Será solicitado o login e a senha configurada quando você instalou o SO na sua Orange Pi e teremos uma tela parecida com essa:
 
 <img src="https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/img/putty-acesso.jpg" alt="alt text" width="300"/>
 
@@ -45,7 +45,7 @@ Será solicitado o login e a senha configurada quando você instalou o SO na sua
 mkdir .ssh && cd .ssh
 ```
 
-- Agora vamos criar um arquivo para salvar a chave criada com o PUTTYgen
+- Criaremos um arquivo para salvar a chave criada com o PUTTYgen:
 
 ```
 nano authorized_keys
@@ -60,3 +60,19 @@ nano authorized_keys
 > Agora sua chave já está na sua Orange Pi PC Plus
 
 - Para finalizar esta parte no seu computador acesse `~/.ssh/id_rsa.ppk`, e clique para que a chave seja executada na sua máquina permitindo que e comunique com a chave pública existente na Orange Pi
+
+<h4>Acessando via SSH sem a necessidade colocar de login e senha todas as vezes</h4>
+  
+- Acesse o PUTTY Configuration e insira a chave privada em `Auth`:
+ 
+<img src="https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/img/putty-ppk.jpg" alt="alt text" width="300"/>
+ 
+ - Em `Connection > Data` insira seu login:
+ 
+ <img src="https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/img/putty-login.jpg" alt="alt text" width="300"/>
+ 
+ - Em `Session` dê um nome a sua sessão e a salve
+ 
+ <img src="https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/img/putty-saveconfiguration.jpg" alt="alt text" width="300"/>
+ 
+ Agora toda vez que carregar as configurações salvas poderá acessar automaticamente sua Orange Pi PC Plus via SSH!! YAY
