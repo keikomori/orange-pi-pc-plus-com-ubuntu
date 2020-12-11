@@ -15,7 +15,7 @@ sudo apt-get update && apt-get upgrade -y
 
 - Depois de instalar do gere uma chave, vai aparecer uma imagem como a que segue abaixo:
 
-<img align="center" src="https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/img/puttygen-generate.jpg" alt="alt text" width="500"/>
+<img src="https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/img/puttygen-generate.jpg" alt="alt text" width="300"/>
 
 Isso vai levar um tempo, então pode ir lá passar seu cafezinho tranquilamente.
 
