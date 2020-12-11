@@ -38,10 +38,26 @@ sudo apt-get update && apt-get upgrade -y
 
 - Não podemos esquecer de inserir o PATH nas configurações do VS Code
 
-<img src="https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/img/extension-remote-ssh-inserir-ssh-config3.jpg" alt="alt text" width="300"/>
+<img src="https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/img/extension-remote-ssh-add-path.jpg" alt="alt text" width="300"/>
 
-- Novamente clique naquele botão no canto inferior esquerdo e `Connect to Host`
+- Novamente clique naquele botão no canto inferior esquerdo e selecione `Connect to Host`
 
 - Selecione o Host que você configurou:
 
 <img src="https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/img/extension-remote-ssh-inserir-ssh-config3.jpg" alt="alt text" width="300"/>
+
+- Selecione a plataforma que esta utilizando, no nosso caso é o `linux`:
+
+<img src="https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/img/extension-remote-ssh-seleciona-plataforma.jpg" alt="alt text" width="300"/>
+
+- Será solicitada a senha:
+
+<img src="https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/img/extension-remote-ssh-insere-senha.jpg" alt="alt text" width="300"/>
+
+Prontinho, você está conectado a Orange Pi via VS Code por meio do protocolo de segurança SSH :)
+
+
+
+
+
+
