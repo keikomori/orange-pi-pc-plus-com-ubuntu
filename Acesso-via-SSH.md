@@ -13,7 +13,7 @@ sudo apt-get update && apt-get upgrade -y
 
 - Para criar as chaves utilizaremos o [PUTTYgen](https://www.puttygen.com/), deixo aqui o link para instalação caso não tenha na sua máquina.
 
-- Depois de instalar do gere uma chave, vai aparecer uma imagem como a que segue abaixo:
+- Instalado o PUTTYgen gere uma chave, vai aparecer uma imagem como a que segue abaixo:
 
 <img src="https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/img/puttygen-generate.jpg" alt="alt text" width="300"/>
 
