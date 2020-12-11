@@ -1,5 +1,5 @@
 <h6>Configuração</h6>
-<h1 align="center">Instalação Ubuntu no Orange Pi PC Plus</h1>
+<h1 align="center">Acessando a Orange Pi via SSH</h1>
 <h6 align="center">by Keiko</h6>
 
 
