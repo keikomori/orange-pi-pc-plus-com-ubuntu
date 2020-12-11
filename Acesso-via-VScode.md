@@ -6,12 +6,6 @@
 
 > Também é requisito ter o VS Code instalado, vou deixar o link aqui se for te ajudar [Instalação VS Code](https://code.visualstudio.com)
 
-<h4>Vamos iniciar atualizando todas as dependências!</h4>
-
-```
-sudo apt-get update && apt-get upgrade -y
-```
-
 <h4>Primeiros passos</h4>
 
 - Instalação da extensão: `Remote-SSH`
