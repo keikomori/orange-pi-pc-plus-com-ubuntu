@@ -65,6 +65,10 @@ root@orangepipcplus:~# apt-get install ubuntu-desktop --no-install-recommends -y
 root@orangepipcplus:~# reboot
 ```
 
+It's done!!
+
+--------------------------------------------------------------------------
+
 Tenho alguns tutoriais que podem lhe ajudar, caso queira é claro!
 
 [Acesso a Orange Pi PC Plus via SSH](https://github.com/keikomori/orange-pi-pc-plus-com-ubuntu/blob/master/Acesso-via-SSH.md)
